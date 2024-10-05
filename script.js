@@ -34,9 +34,3 @@ function novajogada(e){
         }
     }
 }
-
-function comparar(){
-    if(selecionado === posicoes.length){
-        
-    }
-}
